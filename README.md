@@ -1,5 +1,5 @@
 # autoSkill_v2
-#Auto Key Presser for Diablo IV
+Auto Key Presser for Diablo IV
 Description
 This is a Python script that automates key pressing and healing for the game Diablo IV.
 
