@@ -1,0 +1,4 @@
+tkinter==8.6
+opencv-python==4.5.3
+numpy==1.21.1
+pyautogui==0.9.53
