@@ -22,8 +22,9 @@ If health monitoring is enabled, the script will start scanning the health bar a
 Configuration
 The coordinates of the health bar in the game window and the path to the image of an empty health bar need to be set in the script.
 The script currently supports 5 keys for skills and one key for healing. The number of skill keys can be adjusted in the script.
-Screen resolution 1920*1080(16:9 Widescreen), HUD set to center.
+Tested on Screen resolution 1920*1080(16:9 Widescreen), HUD set to center.
 After pressing "start" wait 20 seconds for the HP bar color range capture, HP needs to be full.
+Set hp bar location by F1 and F2 keys.
 
 Notes
 The script was written for a specific game and may not work properly with other games or game settings. Adjustments may be needed to make it work with other games.
